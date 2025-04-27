@@ -37,6 +37,7 @@ body{
 }
 
 .date{
+    margin-top: 0px;
     color: hsl(0, 0%, 7%);
 }
 
